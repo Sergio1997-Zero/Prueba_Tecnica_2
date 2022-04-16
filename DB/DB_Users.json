@@ -1,0 +1,25 @@
+{
+    "Users": [
+        {
+            "id": 1548,
+            "name": "Sergio",
+            "last_name": "Diaz",
+            "age": 24,
+            "email": "firspint09@gmail.com"
+        },
+        {
+            "id": 1549,
+            "name": "Daniel",
+            "last_name": "Diaz",
+            "age": 89,
+            "email": "Daniel@gmail.com"
+        },
+        {
+            "id": 1550,
+            "name": "Daniel",
+            "last_name": "toro",
+            "age": 15,
+            "email": "toro@gmail.com"
+        }
+    ]
+}
