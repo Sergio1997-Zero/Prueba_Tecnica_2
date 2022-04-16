@@ -2,7 +2,7 @@
 
 ### Iniciar:
 
-Activar el entorno virtual que trae todas la librerias y la versión de python requeridas para el funcionamiento del proyecto.
+Activar el entorno virtual que trae todas la librerias y la versión de python requeridas para el funcionamiento de la segunda prueba tecnica.
 
 > Ingresar a la carpeta que se contiene el proyecto
 
